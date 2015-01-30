@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E5C82839-6470-4374-AA66-09EFB07E9838</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KVO_EXT</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1a0dd885-fd28-4d25-a165-77d4bc748f21++7297</key>
+		<string>svn://172.16.76.251/svnmobile/Project/%25E6%25B3%25A2%25E5%25A5%2587%25E7%25BD%2591%25E7%25A7%25BB%25E5%258A%25A8%25E7%25AB%2599</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>New Prj/Sample/KVO_EXT/KVO_EXT.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1a0dd885-fd28-4d25-a165-77d4bc748f21++7297</key>
+		<string>../../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>1a0dd885-fd28-4d25-a165-77d4bc748f21++7297</key>
+		<string>svn://172.16.76.251/svnmobile</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://172.16.76.251/svnmobile/Project/%25E6%25B3%25A2%25E5%25A5%2587%25E7%25BD%2591%25E7%25A7%25BB%25E5%258A%25A8%25E7%25AB%2599/New%20Prj/Sample/KVO_EXT/KVO_EXT.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1a0dd885-fd28-4d25-a165-77d4bc748f21++7297</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1a0dd885-fd28-4d25-a165-77d4bc748f21++7297</string>
+			<key>IDESourceControlWCCName</key>
+			<string>%E6%B3%A2%E5%A5%87%E5%AE%A0%E7%89%A9</string>
+		</dict>
+	</array>
+</dict>
+</plist>
